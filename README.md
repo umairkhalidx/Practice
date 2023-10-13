@@ -2,4 +2,4 @@
 
 ## Writing this as a Sub Heading
 
-Checking more features of Markdown Language
+This readme was coded in Feature branch
